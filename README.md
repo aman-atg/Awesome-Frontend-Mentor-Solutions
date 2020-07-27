@@ -18,7 +18,7 @@ Solutions</i>
 - [Advanced](#Advanced)
 - [Guru](#Guru)
 
-## Newbie
+### Newbie
 
 - [Article Preview Component](Solutions/0/Article_Preview_Component/README.md)
 - [Base Apparel Coming Soon Page](Solutions/0/Base_Apparel_Coming_Soon_Page/README.md)
@@ -32,7 +32,7 @@ Solutions</i>
 - [Ping Single Column Coming Soon Page](Solutions/0/Ping_Single_Column_Coming_Soon_Page/README.md)
 - [Single Price Grid Component](Solutions/0/Single_Price_Grid_Component/README.md)
 
-## Junior
+### Junior
 
 - [Clipboard Landing Page](Solutions/1/Clipboard_Landing_Page/README.md)
 - [Fylo Dark Theme Landing Page](Solutions/1/Fylo_Dark_Theme_Landing_Page/README.md)
@@ -42,7 +42,7 @@ Solutions</i>
 - [Project Tracking Intro Component](Solutions/1/Project_Tracking_Intro_Component/README.md)
 - [Social Media Dashboard With Theme Switcher](Solutions/1/Social_Media_Dashboard_With_Theme_Switcher/README.md)
 
-## Intermediate
+### Intermediate
 
 - [Bookmark Landing Page](Solutions/2/Bookmark_Landing_Page/README.md)
 - [Chat App CSS Illustration](Solutions/2/Chat_App_CSS_Illustration/README.md)
@@ -54,12 +54,17 @@ Solutions</i>
 - [Scoot Multi-page Website](Solutions/2/Scoot_Multi-page_Website/README.md)
 - [URL Shortening API Landing Page](Solutions/2/URL_Shortening_API_Landing_Page/README.md)
 
-## Advanced
+### Advanced
 
 - [Myteam Multi-page Website](Solutions/3/Myteam_Multi-page_Website/README.md)
 - [Rest Countries API With Color Theme Switcher](Solutions/3/Rest_Countries_API_With_Color_Theme_Switcher/README.md)
 - [Rock Paper Scissors Game](Solutions/3/Rock_Paper_Scissors_Game/README.md)
 
-## Guru
+### Guru
 
 - coming soon!
+
+## Contribute
+
+Contributions are always welcome!
+Please read the [contribution guidelines](CONTRIBUTING.md) first.
