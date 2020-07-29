@@ -1,3 +1,8 @@
+## Categories
+
+- [HTML+CSS+JS](#HTML+CSS+JS)
+
+
 ## HTML+CSS+JS
 
 - Creator : [kfairris](https://github.com/kfairris)
